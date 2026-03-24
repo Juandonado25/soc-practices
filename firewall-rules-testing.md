@@ -7,7 +7,7 @@ El objetivo de estas pruebas es verificar el correcto funcionamiento de las regl
 
 #### WAN -> DMZ TCP 3000 = PASS: Tracking ID 1769487539 
 
-Desde el navegador se accede a la URL de el servidor web en el puerto 3000.
+Desde un navegador fuera de la red de Virtualbox se accede a la URL de el servidor web en el puerto 3000.
 
 <img  alt="image" src="images/test-id-1769487539.png" /> 
 
