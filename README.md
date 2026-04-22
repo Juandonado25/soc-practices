@@ -1,4 +1,4 @@
-# SOC Practices — Homelab
+# Cybersecurity Homelab Practices
 
 Repositorio de documentación técnica correspondiente a practicas realizadas en un entorno de laboratorio que simula la infraestructura y operaciones de un Centro de Operaciones de Seguridad (SOC).
 
